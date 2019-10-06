@@ -1,11 +1,16 @@
 
+
 var members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
-btnSubmit.onclick=function(){
+btnConfirm.onclick=function(){
   accountName = inptFirstName.value
-  if ((accountName == "Smith"))
+  if ((accountName == "Smith")) {
     NSB.MsgBox( "You are a member")
-    members.push("Smith"
-  else
+    members.push("Smith")
+    }
+  else {
     NSB.MsgBox("You are not a member")
 }
+}
+
+console.log(members)
