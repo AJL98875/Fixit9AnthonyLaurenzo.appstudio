@@ -28,7 +28,7 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "Button1", 
+  "id": "btnConfirm", 
   "left": 128, 
   "mAll": "", 
   "mBottom": "", 
@@ -61,6 +61,6 @@
   "style": "", 
   "toggleControl": "", 
   "top": 203, 
-  "value": "Button", 
+  "value": "Confirm", 
   "width": "auto"
 }
