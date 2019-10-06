@@ -54,8 +54,8 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "fourControls", 
-            "fourControls.json"
+            "twoControls", 
+            "twoControls.json"
           ]
         }, 
         {
@@ -86,7 +86,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "fourControls", 
+      "firstform": "twoControls", 
       "fontFamily": "system", 
       "height": "", 
       "homescreenTitle": "", 

@@ -1,4 +1,4 @@
-/*
+
 
 var members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
@@ -15,4 +15,3 @@ btnConfirm.onclick=function(){
 
 console.log(members)
 
-*/

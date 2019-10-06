@@ -207,6 +207,15 @@
         "Elements", 
         "btnAllDone.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "MadLib", 
+        "Elements", 
+        "lblReload.json"
+      ]
     }
   ], 
   "class": "", 

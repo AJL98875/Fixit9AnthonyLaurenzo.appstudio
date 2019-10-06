@@ -1,4 +1,4 @@
-/*
+
 
 var yourName = ""
 
@@ -119,8 +119,8 @@ Even her ${nounListing[4]} was surprised. I always thought she was ${adjListing[
 
 Either way, we imagine that after witnessing her ${verbListing[2]}ing with a ${adjListing[2]} ${nounListing[5]}, there are probably a whole lot of ${nounListing[6]}s that are going to need therapy.`)
 }
-  
-*/
+
+
   
 
   

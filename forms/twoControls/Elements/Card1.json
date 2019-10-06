@@ -32,7 +32,7 @@
   "imageHeight": "100", 
   "imageStyle": "", 
   "imageWidth": "200", 
-  "left": 124, 
+  "left": 60, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -67,6 +67,6 @@
   "titleClass": "", 
   "titleStyle": "", 
   "titleValue": "Bugatti", 
-  "top": 19, 
+  "top": 24, 
   "width": "200px"
 }
